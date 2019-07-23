@@ -1,0 +1,2 @@
+# applet
+WeChat mini program
