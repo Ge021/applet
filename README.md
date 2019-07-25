@@ -1,2 +1,2 @@
-# applet
+# applet-wx
 WeChat mini program
