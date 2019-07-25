@@ -1,0 +1,7 @@
+<!--pages/webview/webview.wxml-->
+
+<!-- 
+https://blog.zgc.pub/
+指向
+ -->
+<web-view src="https://blog.zgc.pub/"></web-view>

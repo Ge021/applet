@@ -1,0 +1,16 @@
+<view class='base-padding font-lv3 color-semi content'>
+  <view><text class='color-black'>生活志</text> 开心生活，认真工作！</view>
+  <view class='strong'>更多开源程序，请关注个人开源主页</view>
+  <view>
+      <view>GitHub: https://github.com/zhang027</view>
+        <image src='/images/1.jpg'></image>
+  </view>
+
+  <view class='strong'>联系方式</view>
+  <view>
+      <view>QQ: 3315309263</view>
+      <view>QQ群: 639321950</view>
+      <view>邮箱: 3315309263@qq.com</view>
+  </view>
+
+</view>
